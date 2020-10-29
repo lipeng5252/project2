@@ -1,0 +1,36 @@
+/* 导航样式 */
+
+ul li{
+	
+	font-weight: bold;
+}
+
+
+/* 主体内容样式 */
+
+h4{
+	font-weight:bold ;
+}
+.thumbnail{
+	border: 0px;
+}
+.bg-icon:hover{
+	background-color: #fff;
+	box-shadow: 2px 2px 10px 5px #eee ;
+	cursor:pointer;
+}
+
+/* 脚部样式 */
+.foot{
+	background-color: #000000;
+	color: white;
+}
+
+.foot div{
+	margin: 20px;
+}
+
+
+.class-color{
+	border-bottom: 3px solid green;
+}
